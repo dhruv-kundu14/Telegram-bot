@@ -8,8 +8,8 @@ from speedtest import Speedtest
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-TOKEN = '6091415163:AAF-2uEz4bjJLSo9UdKnOSE2JdMdQWaU2xU'
-RAPIDAPI_KEY = 'e3533808f0msh54fbaf97392157cp1b20b4jsna1a4dc2fb4d8'
+TOKEN = 'ENTER THE API KEY FROM TELEGRAM BOTFATHER'
+RAPIDAPI_KEY = 'ENTER RAPID API KEY'
 
 
 
